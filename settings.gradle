@@ -1,0 +1,2 @@
+include ':app', ':comm', ':plugin'
+rootProject.name='RemoteBinder'
